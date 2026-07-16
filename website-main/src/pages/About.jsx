@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Users, Globe, Code2, Award, Zap, TrendingUp, Lightbulb, Rocket, Shield, ArrowRight, Sparkles } from "lucide-react";
-import womanImg from "../assets/woman.png"; // Ensure this matches actual file name
+import womanImg from "../assets/woman.webp"; // Ensure this matches actual file name
 import CountUp from "../components/CountUp"; // Ensure this matches actual file name
 import ParticlesBackground from "../components/ParticlesBackground";
 

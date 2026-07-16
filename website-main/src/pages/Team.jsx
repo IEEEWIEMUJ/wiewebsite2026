@@ -20,7 +20,7 @@ const executiveCommittee = [
     "id": 54,
     "name": "Palakshi Sirsat",
     "designation": "Chairperson",
-    "img": "/teams/EC/Palakshi Sirsat.jpg",
+    "img": "/teams/EC/palakshi_sirsat.webp",
     "instagram": "https://www.instagram.com/palakshiiii_?igsh=MXdld3ptcnc4bXNzOQ==",
     "linkedin": "https://www.linkedin.com/in/palakshi-sirsat-8185b4351?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     "github": ""
@@ -29,7 +29,7 @@ const executiveCommittee = [
     "id": 53,
     "name": "Kshiti Singh",
     "designation": "Vice Chairperson",
-    "img": "/teams/EC/Kshiti Singh.JPG",
+    "img": "/teams/EC/kshiti_singh.webp",
     "instagram": "https://www.instagram.com/kshitisingh._?igsh=MWFwbG1ubWZ0N21xeA==",
     "linkedin": "https://www.linkedin.com/in/kshiti-singh-6515b8319?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
     "github": ""
@@ -38,7 +38,7 @@ const executiveCommittee = [
     "id": 49,
     "name": "Akshat Raheja",
     "designation": "General Secretary",
-    "img": "/teams/EC/Akshat Raheja.jpeg",
+    "img": "/teams/EC/akshat_raheja.webp",
     "instagram": "https://www.instagram.com/akshat_raheja06/",
     "linkedin": "https://www.linkedin.com/in/akshat-raheja06",
     "github": ""
@@ -47,7 +47,7 @@ const executiveCommittee = [
     "id": 50,
     "name": "Ashita Saxena",
     "designation": "Managing Director",
-    "img": "/teams/EC/Ashita Saxena.jpeg",
+    "img": "/teams/EC/ashita_saxena.webp",
     "instagram": "https://www.instagram.com/ashitaaaa_0808/",
     "linkedin": "https://www.linkedin.com/in/ashita-saxena-a3178824a/",
     "github": ""
@@ -56,7 +56,7 @@ const executiveCommittee = [
     "id": 52,
     "name": "Sarath Mohanraj",
     "designation": "Treasurer",
-    "img": "/teams/EC/SARATH MOHANRAJ.jpg",
+    "img": "/teams/EC/sarath_mohanraj.webp",
     "instagram": "https://www.instagram.com/sarathmohanraj?igsh=MTRva3d5cGtjaGhhNg==",
     "linkedin": "https://www.linkedin.com/in/sarath-mohanraj",
     "github": "https://github.com/sarathTechie"
@@ -65,7 +65,7 @@ const executiveCommittee = [
     "id": 55,
     "name": "Shivangi Kotnala",
     "designation": "Human Resource Director",
-    "img": "/teams/EC/SHIVANGI KOTNALA.jpeg",
+    "img": "/teams/EC/shivangi_kotnala.webp",
     "instagram": "https://www.instagram.com/_simplyshivangi_?igsh=a2xyb2t1ZnJ4NGJh&utm_source=qr",
     "linkedin": "https://www.linkedin.com/in/shivangi-kotnala-41a4b3359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
     "github": "https://github.com/shivangi-kotnala"
@@ -74,7 +74,7 @@ const executiveCommittee = [
     "id": 51,
     "name": "Vaibhav Kumar",
     "designation": "Technical Secretary",
-    "img": "/teams/EC/Vaibhav Kumar.jpeg",
+    "img": "/teams/EC/vaibhav_kumar.webp",
     "instagram": "https://www.instagram.com/vbv.kr/",
     "linkedin": "https://www.linkedin.com/in/vaibhav-kumar-b8817038a/",
     "github": ""
@@ -88,7 +88,7 @@ const coreDepartments = [
         "id": 32,
         "name": "Yash Singh",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Yash Singh.jpeg",
+        "img": "/teams/CC/yash_singh.webp",
         "instagram": "https://www.instagram.com/yashs61?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
         "linkedin": "https://www.linkedin.com/in/yash-singh-56431a374?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": "https://github.com/Yashbaghel12"
@@ -97,7 +97,7 @@ const coreDepartments = [
         "id": 33,
         "name": "Aum Lenka",
         "designation": "Head",
-        "img": "/teams/CC/Aum Lenka.jpeg",
+        "img": "/teams/CC/aum_lenka.webp",
         "instagram": "https://www.instagram.com/lnk.dot/",
         "linkedin": "https://www.linkedin.com/in/aum-lenka/",
         "github": "https://github.com/Faze-Mortal"
@@ -106,7 +106,7 @@ const coreDepartments = [
         "id": 34,
         "name": "Shaurya Saxena",
         "designation": "Joint Head",
-        "img": "/teams/CC/Shaurya Saxena.jpg",
+        "img": "/teams/CC/shaurya_saxena.webp",
         "instagram": "https://www.instagram.com/shaurya_s_16?igsh=MTRnd3Jwd25wYXhwZQ==",
         "linkedin": "",
         "github": ""
@@ -115,7 +115,7 @@ const coreDepartments = [
         "id": 35,
         "name": "Aparna",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Aparna Mishra.jpg",
+        "img": "/teams/CC/aparna_mishra.webp",
         "instagram": "https://www.instagram.com/aparna_mishra98?igsh=MWhjYmNsemttZW1qMQ==",
         "linkedin": "https://www.linkedin.com/in/aparna-4a2486380?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": "https://github.com/baparna526-ai"
@@ -124,7 +124,7 @@ const coreDepartments = [
         "id": 36,
         "name": "Dhruv Sahrawat",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Dhruv Sahrawat.jpeg",
+        "img": "/teams/CC/dhruv_sahrawat.webp",
         "instagram": "https://www.instagram.com/dhruv.17t_t?igsh=MWFubXdvYzlrNGE0OA%3D%3D&utm_source=qr",
         "linkedin": "",
         "github": ""
@@ -138,7 +138,7 @@ const coreDepartments = [
         "id": 37,
         "name": "Ritesh Soni",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Ritesh.jpg",
+        "img": "/teams/CC/ritesh.webp",
         "instagram": "https://www.instagram.com/soni._.ritesh?igsh=MXJjajcybG9wcTMweA==",
         "linkedin": "",
         "github": ""
@@ -147,7 +147,7 @@ const coreDepartments = [
         "id": 38,
         "name": "Daksh Saxena",
         "designation": "Head",
-        "img": "/teams/CC/Daksh Saxena.jpg",
+        "img": "/teams/CC/daksh_saxena.webp",
         "instagram": "https://www.instagram.com/daksh_13_11?igsh=ZTE3eWs5bW9zMWt1",
         "linkedin": "https://www.linkedin.com/in/daksh-saxena-ab541337b?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": ""
@@ -156,7 +156,7 @@ const coreDepartments = [
         "id": 39,
         "name": "Arpit Singh",
         "designation": "Joint Head",
-        "img": "/teams/CC/Arpit Singh.jpg",
+        "img": "/teams/CC/arpit_singh.webp",
         "instagram": "https://www.instagram.com/arpitsinnghh?igsh=ZnVhdHhybTk0MXhy",
         "linkedin": "https://www.linkedin.com/in/arpit-singh-3538a138b",
         "github": ""
@@ -165,7 +165,7 @@ const coreDepartments = [
         "id": 40,
         "name": "Atharv garg",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Atharv Garg.png",
+        "img": "/teams/CC/atharv_garg.webp",
         "instagram": "https://www.instagram.com/atharvgarg4570/",
         "linkedin": "https://www.linkedin.com/in/atharv-garg-12972036b?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": "https://github.com/atharvgarg30-hub"
@@ -174,7 +174,7 @@ const coreDepartments = [
         "id": 41,
         "name": "Kiana agarwal",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Kiana Agarwal.jpeg",
+        "img": "/teams/CC/kiana_agarwal.webp",
         "instagram": "https://www.instagram.com/kiana_k_agarwal?igsh=MXhjODVvZ2thNWg1dA%3D%3D&utm_source=qr",
         "linkedin": "https://www.linkedin.com/in/kiana-agarwal",
         "github": "https://github.com/kianaagarwal"
@@ -183,7 +183,7 @@ const coreDepartments = [
         "id": 42,
         "name": "Arnav Asrani",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Arnav Asrani.jpeg",
+        "img": "/teams/CC/arnav_asrani.webp",
         "instagram": "https://www.instagram.com/arnav.asrani",
         "linkedin": "",
         "github": "https://github.com/arnavasrani"
@@ -197,7 +197,7 @@ const coreDepartments = [
         "id": 51,
         "name": "Yashika Agarwal",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Yashika Agarwal.jpg",
+        "img": "/teams/CC/yashika_agarwal.webp",
         "instagram": "https://www.instagram.com/yashika_agarwal22?igsh=ZDAyMXN4d2lqaTJj",
         "linkedin": "https://www.linkedin.com/in/yashika-agarwal-070ab03a4?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": ""
@@ -206,7 +206,7 @@ const coreDepartments = [
         "id": 44,
         "name": "Krishna Tripathi",
         "designation": "Head",
-        "img": "/teams/CC/Krishna Tripathi.jpg",
+        "img": "/teams/CC/krishna_tripathi.webp",
         "instagram": "https://www.instagram.com/tripathi_ji1884?igsh=MTRsZWptb3NzejBsZA==",
         "linkedin": "https://www.linkedin.com/in/krishna-tripathi-8513a3217?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": ""
@@ -215,7 +215,7 @@ const coreDepartments = [
         "id": 46,
         "name": "Tamanna",
         "designation": "Joint Head",
-        "img": "/teams/CC/Tamanna Kinha.jpg",
+        "img": "/teams/CC/tamanna_kinha.webp",
         "instagram": "https://www.instagram.com/itamanna02?igsh=aDhiMmQ3aXR5dXh6",
         "linkedin": "https://www.linkedin.com/in/tamanna-kinha-a6687237b?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": ""
@@ -224,7 +224,7 @@ const coreDepartments = [
         "id": 52,
         "name": "Naman Saini",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Naman Saini.jpeg",
+        "img": "/teams/CC/naman_saini.webp",
         "instagram": "https://www.instagram.com/saininaman_0001?igsh=ZWgzOTZwN3B0M3gx&utm_source=qr",
         "linkedin": "",
         "github": ""
@@ -238,7 +238,7 @@ const coreDepartments = [
         "id": 47,
         "name": "Nehal Sharma",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Nehal Sharma.jpg",
+        "img": "/teams/CC/nehal_sharma.webp",
         "instagram": "https://www.instagram.com/nehall.08?igsh=czZra21yZjF3aHp6",
         "linkedin": "https://www.linkedin.com/in/nehal-sharma-6a554a3a4?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": "https://github.com/nehallsharma002-gif"
@@ -247,7 +247,7 @@ const coreDepartments = [
         "id": 45,
         "name": "Ananya Kedia",
         "designation": "Head",
-        "img": "/teams/CC/Ananya Kedia.jpg",
+        "img": "/teams/CC/ananya_kedia.webp",
         "instagram": "https://www.instagram.com/ananyaa.kedia?igsh=MWUyaXJ1bWh0aGFsZA%3D%3D&utm_source=qr",
         "linkedin": "https://in.linkedin.com/in/ananya-kedia-848829348",
         "github": "https://github.com/ananyak09"
@@ -256,7 +256,7 @@ const coreDepartments = [
         "id": 43,
         "name": "Gaadha Amal Nair",
         "designation": "Joint Head",
-        "img": "/teams/CC/Gaadha Amal Nair.jpeg",
+        "img": "/teams/CC/gaadha_amal_nair.webp",
         "instagram": "https://www.instagram.com/gaadha_amalnair?igsh=ODJjOXlsNGJoYWNx&utm_source=qr",
         "linkedin": "https://www.linkedin.com/in/gaadha-amal-nair-255760371?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
         "github": ""
@@ -265,7 +265,7 @@ const coreDepartments = [
         "id": 48,
         "name": "Divya Sinha",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Divya.jpeg",
+        "img": "/teams/CC/divya.webp",
         "instagram": "https://www.instagram.com/divya._s20/",
         "linkedin": "https://www.linkedin.com/in/divya-sinha-400159415/",
         "github": ""
@@ -274,7 +274,7 @@ const coreDepartments = [
         "id": 49,
         "name": "Raima Ali",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Raima Ali.jpeg",
+        "img": "/teams/CC/raima_ali.webp",
         "instagram": "https://www.instagram.com/raimaali.18",
         "linkedin": "",
         "github": ""
@@ -283,7 +283,7 @@ const coreDepartments = [
         "id": 50,
         "name": "Spreha Verma",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Spreha Verma.jpg",
+        "img": "/teams/CC/spreha_verma.webp",
         "instagram": "https://www.instagram.com/spiaowo?igsh=MTBhMGIwNWVsODRvMA==",
         "linkedin": "https://www.linkedin.com/in/spreha-verma-017465315?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": ""
@@ -292,7 +292,7 @@ const coreDepartments = [
         "id": 53,
         "name": "Yashu Suresh Pandey",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Yashu Pandey.jpeg",
+        "img": "/teams/CC/yashu_pandey.webp",
         "instagram": "https://www.instagram.com/yashu_pandey04/",
         "linkedin": "https://www.linkedin.com/in/yashu-pandey-9b9685414?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
         "github": "https://github.com/yashupandey29"
@@ -306,7 +306,7 @@ const coreDepartments = [
         "id": 54,
         "name": "Prarthana Agarwal",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Prarthana Agarwal.jpg",
+        "img": "/teams/CC/prarthana_agarwal.webp",
         "instagram": "https://www.instagram.com/prarthana_agarwal8/",
         "linkedin": "https://www.linkedin.com/in/prarthana-agarwal-8131b137b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "github": "https://github.com/PrarthanaAgarwal82"
@@ -315,7 +315,7 @@ const coreDepartments = [
         "id": 55,
         "name": "Akshita Sinha",
         "designation": "Head",
-        "img": "/teams/CC/Akshita Sinha.jpeg",
+        "img": "/teams/CC/akshita_sinha.webp",
         "instagram": "https://www.instagram.com/akshiiii.ta_07?igsh=MWdybXFrd25qcGxuYQ%3D%3D&utm_source=qr",
         "linkedin": "https://www.linkedin.com/in/akshita-sinha-2aa74b1a7?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
         "github": ""
@@ -324,7 +324,7 @@ const coreDepartments = [
         "id": 56,
         "name": "Tanishka Panda",
         "designation": "Joint Head",
-        "img": "/teams/CC/Tanishka Panda.jpeg",
+        "img": "/teams/CC/tanishka_panda.webp",
         "instagram": "https://www.instagram.com/tanxishka",
         "linkedin": "https://linkedin.com/in/tanishka-panda",
         "github": "https://github.com/tanishkapanda18"
@@ -333,7 +333,7 @@ const coreDepartments = [
         "id": 57,
         "name": "Andrea Benjamin",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Andrea Benjamin.jpeg",
+        "img": "/teams/CC/andrea_benjamin.webp",
         "instagram": "https://www.instagram.com/andrea.diaa?igsh=ZWkwOHJ2bm93cWFm",
         "linkedin": "https://www.linkedin.com/in/andrea-benjamin-658238311?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": ""
@@ -347,7 +347,7 @@ const coreDepartments = [
         "id": 58,
         "name": "Kavya das",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Kavya Das.jpg",
+        "img": "/teams/CC/kavya_das.webp",
         "instagram": "https://www.instagram.com/kabuli_chanaaa?igsh=MWJudXgyeTV0YXhhOA==",
         "linkedin": "https://www.linkedin.com/in/kavya-das-4728b936a?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": ""
@@ -356,7 +356,7 @@ const coreDepartments = [
         "id": 59,
         "name": "Yash Sharma",
         "designation": "Head",
-        "img": "/teams/CC/Yash Sharma.jpg",
+        "img": "/teams/CC/yash_sharma.webp",
         "instagram": "https://www.instagram.com/busyguy_18?igsh=aDMybmV3MWwzNjVw",
         "linkedin": "https://www.linkedin.com/in/yash-sharma-a46ab7339?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": ""
@@ -365,7 +365,7 @@ const coreDepartments = [
         "id": 60,
         "name": "Vaibhav Sharma",
         "designation": "Joint Head",
-        "img": "/teams/CC/Vaibhav Sharma.jpg",
+        "img": "/teams/CC/vaibhav_sharma.webp",
         "instagram": "https://www.instagram.com/vbhvshrma1?igsh=bjlyZTh5Zm05YXdm&utm_source=qr",
         "linkedin": "https://www.linkedin.com/in/vaibhav-sharma-a03025399?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
         "github": "https://github.com/vaibhavrsharma01-cell"
@@ -379,7 +379,7 @@ const coreDepartments = [
         "id": 61,
         "name": "Alisha Chaudhary",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Alisha Chaudhary.jpg",
+        "img": "/teams/CC/alisha_chaudhary.webp",
         "instagram": "https://www.instagram.com/_its.alishaaa_?utm_source=qr&igsh=MXNmdHMwMmpseHQzeg==",
         "linkedin": "https://www.linkedin.com/in/alisha-chaudhary-771056372?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": ""
@@ -388,7 +388,7 @@ const coreDepartments = [
         "id": 62,
         "name": "Aanya Singhal",
         "designation": "Head",
-        "img": "/teams/CC/Aanya Singhal.jpeg",
+        "img": "/teams/CC/aanya_singhal.webp",
         "instagram": "https://www.instagram.com/aanyasinghal03",
         "linkedin": "https://www.linkedin.com/in/aanya-singhal-583796378?",
         "github": "https://github.com/aanyasinghal03"
@@ -397,7 +397,7 @@ const coreDepartments = [
         "id": 63,
         "name": "Saisha Narang",
         "designation": "Joint Head",
-        "img": "/teams/CC/Saisha Narang.jpg",
+        "img": "/teams/CC/saisha_narang.webp",
         "instagram": "https://www.instagram.com/saishanarang.7?igsh=cjQ5Zmljd3d1Ym8=",
         "linkedin": "https://www.linkedin.com/in/saisha-narang-8246533a5?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": "https://github.com/saishanarang13-source"
@@ -406,7 +406,7 @@ const coreDepartments = [
         "id": 64,
         "name": "Saurish",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Saurish Mishra.jpg",
+        "img": "/teams/CC/saurish_mishra.webp",
         "instagram": "https://www.instagram.com/saurish_idk?igsh=MWd5eWRrMW93bXlpcQ==",
         "linkedin": "https://www.linkedin.com/in/saurish-mishra-b1a30936b?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": "https://github.com/Saurish187"
@@ -420,7 +420,7 @@ const coreDepartments = [
         "id": 65,
         "name": "Tanisha Salian",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Tanisha Salian.jpg",
+        "img": "/teams/CC/tanisha_salian.webp",
         "instagram": "https://www.instagram.com/tanii_salian17?igsh=MWo5MmE3cnkzN2I1cQ==",
         "linkedin": "https://www.linkedin.com/in/tanisha-salian-5a3591376?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": "https://github.com/Tanisha-123-tech"
@@ -429,7 +429,7 @@ const coreDepartments = [
         "id": 66,
         "name": "Mahi Mehrotra",
         "designation": "Head",
-        "img": "/teams/CC/Mahi Mehrotra.jpeg",
+        "img": "/teams/CC/mahi_mehrotra.webp",
         "instagram": "https://www.instagram.com/mahimehrotraa?igsh=bTNrcTEyNXVudjV4&utm_source=qr",
         "linkedin": "https://www.linkedin.com/in/mahi-mehrotra-a260723a7?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
         "github": "https://github.com/mahimehrotra1234-cell"
@@ -438,7 +438,7 @@ const coreDepartments = [
         "id": 67,
         "name": "Jannat Ghuman",
         "designation": "Joint Head",
-        "img": "/teams/CC/Jannat Ghuman.jpeg",
+        "img": "/teams/CC/jannat_ghuman.webp",
         "instagram": "https://www.instagram.com/jannat.ghuman?igsh=NnZkanRkdmdwZGZh&utm_source=qr",
         "linkedin": "https://www.linkedin.com/in/jannat-ghuman-8923913b9?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
         "github": ""
@@ -447,7 +447,7 @@ const coreDepartments = [
         "id": 68,
         "name": "Abhishek Vishnoi",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Abhishek Vishnoi.jpeg",
+        "img": "/teams/CC/abhishek_vishnoi.webp",
         "instagram": "https://www.instagram.com/abhishek.v10?igsh=MW4wNHp1dmpqbDMwbQ==",
         "linkedin": "",
         "github": ""
@@ -456,7 +456,7 @@ const coreDepartments = [
         "id": 69,
         "name": "Shouryam Sharma",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Shouryam Sharma.jpeg",
+        "img": "/teams/CC/shouryam_sharma.webp",
         "instagram": "https://www.instagram.com/shoury4mz?igsh=NTIwZ3E2cHgwZTl3&utm_source=qr",
         "linkedin": "https://www.linkedin.com/in/shouryam-sharma-8839843a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
         "github": ""
@@ -465,7 +465,7 @@ const coreDepartments = [
         "id": 82,
         "name": "Presha Gusain",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Presha Gusain.jpeg",
+        "img": "/teams/CC/presha_gusain.webp",
         "instagram": "https://www.instagram.com/preshagusain__?igsh=aTVidHV5ZDBwam05",
         "linkedin": "https://www.linkedin.com/in/presha-gusain-7198863a6?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": ""
@@ -479,7 +479,7 @@ const coreDepartments = [
         "id": 70,
         "name": "Anika Gujral",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Anika Gujral.jpg",
+        "img": "/teams/CC/anika_gujral.webp",
         "instagram": "https://www.instagram.com/anika.gujral?igsh=MTIwMTUzdmlpZW43bA==",
         "linkedin": "https://www.linkedin.com/in/anika-gujral-529a17409?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": ""
@@ -488,7 +488,7 @@ const coreDepartments = [
         "id": 71,
         "name": "Vaani Dhiman",
         "designation": "Head",
-        "img": "/teams/CC/Vaani.jpg",
+        "img": "/teams/CC/vaani.webp",
         "instagram": "https://www.instagram.com/vxxni_19?utm_source=qr&igsh=MWtranEzd3lrZmo1eQ==",
         "linkedin": "https://www.linkedin.com/in/vaani-dhiman-a6b242378?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": ""
@@ -497,7 +497,7 @@ const coreDepartments = [
         "id": 72,
         "name": "Sahil",
         "designation": "Joint Head",
-        "img": "/teams/CC/Sahil Parashar.jpeg",
+        "img": "/teams/CC/sahil_parashar.webp",
         "instagram": "https://www.instagram.com/thisisme.sahil/",
         "linkedin": "https://www.linkedin.com/in/thisis-mesahil/",
         "github": ""
@@ -506,7 +506,7 @@ const coreDepartments = [
         "id": 73,
         "name": "Vidhi Makkar",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Vidhi Makkar.jpeg",
+        "img": "/teams/CC/vidhi_makkar.webp",
         "instagram": "https://www.instagram.com/vidhiimakkarr",
         "linkedin": "https://www.linkedin.com/in/vidhi-makkar-75a010270?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
         "github": ""
@@ -515,7 +515,7 @@ const coreDepartments = [
         "id": 74,
         "name": "Shivanshi Punj",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/shivanshi punj.jpeg",
+        "img": "/teams/CC/shivanshi_punj.webp",
         "instagram": "https://www.instagram.com/shivanshipunj?igsh=MTVsdWdhdW0zYnV4cA%3D%3D&utm_source=qr",
         "linkedin": "",
         "github": ""
@@ -524,7 +524,7 @@ const coreDepartments = [
         "id": 75,
         "name": "Utkarsh Jain",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Utkarsh Jain.jpeg",
+        "img": "/teams/CC/utkarsh_jain.webp",
         "instagram": "https://www.instagram.com/utkxrsh_307/",
         "linkedin": "https://www.linkedin.com/in/utkarshjain007/",
         "github": ""
@@ -533,7 +533,7 @@ const coreDepartments = [
         "id": 76,
         "name": "Ifra Inam",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Ifra Inam.jpeg",
+        "img": "/teams/CC/ifra_inam.webp",
         "instagram": "https://www.instagram.com/ifraaa.com_?igsh=MXFoYWFwaGVlaTVwZw%3D%3D&utm_source=qr",
         "linkedin": "https://www.linkedin.com/in/ifra-inam-984a5937b?trk=contact-info",
         "github": ""
@@ -547,7 +547,7 @@ const coreDepartments = [
         "id": 77,
         "name": "Ananya Singh",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Ananya Singh.jpeg",
+        "img": "/teams/CC/ananya_singh.webp",
         "instagram": "https://www.instagram.com/20._.ananya",
         "linkedin": "https://www.linkedin.com/in/ananya-singh-077267410",
         "github": "https://github.com/Ananya20-Singh"
@@ -556,7 +556,7 @@ const coreDepartments = [
         "id": 78,
         "name": "Aditi Agarwal",
         "designation": "Head",
-        "img": "/teams/CC/Aditi.jpeg",
+        "img": "/teams/CC/aditi.webp",
         "instagram": "https://www.instagram.com/aditiiagarwalll/",
         "linkedin": "https://linkedin.com/in/aditi-agarwal-064bb6377",
         "github": "https://github.com/aditiiagarwalll"
@@ -565,7 +565,7 @@ const coreDepartments = [
         "id": 79,
         "name": "Manya Singh",
         "designation": "Joint Head",
-        "img": "/teams/CC/Manya Singh.jpeg",
+        "img": "/teams/CC/manya_singh.webp",
         "instagram": "https://www.instagram.com/manyaa.14?igsh=Zjl6MjQ2NDEzMTJq&utm_source=qr",
         "linkedin": "https://www.linkedin.com/in/manya-singh-8852a7420/?skipRedirect=true",
         "github": "https://github.com/manyasingh1477/Manya-Singh"
@@ -574,7 +574,7 @@ const coreDepartments = [
         "id": 80,
         "name": "Abhigyan Padhy",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Abhigyan Padhy.jpeg",
+        "img": "/teams/CC/abhigyan_padhy.webp",
         "instagram": "https://www.instagram.com/abhigyanpadhy",
         "linkedin": "",
         "github": ""
@@ -583,7 +583,7 @@ const coreDepartments = [
         "id": 81,
         "name": "Niharika Singh",
         "designation": "Senior Coordinator",
-        "img": "/teams/CC/Niharika.jpg",
+        "img": "/teams/CC/niharika.webp",
         "instagram": "https://www.instagram.com/niharikaezz?igsh=azFka2wwdnV2ZnEz",
         "linkedin": "https://www.linkedin.com/in/niharika-singh-96b967380?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "github": ""

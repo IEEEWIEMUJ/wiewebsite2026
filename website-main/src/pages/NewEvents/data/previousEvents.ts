@@ -179,7 +179,7 @@ export const previousEvents: PreviousEvent[] = [
   {
     id: 80,
     title: 'CODER\'S CRUSADE',
-    image: '/Events/coders_crusade.jpeg',
+    image: '/Events/coders_crusade.webp',
     category: 'TECH / HACKATHON',
     date: '27 November 2024',
     location: 'Manipal University Jaipur',
@@ -483,7 +483,7 @@ export const previousEvents: PreviousEvent[] = [
   {
     id: 42,
     title: 'The Fast Switch',
-    image: '/Events/The_Fast_Switch.png',
+    image: '/Events/the_fast_switch.webp',
     category: 'TECH / HACKATHON',
     date: '19 March 2023',
     location: 'Manipal University Jaipur',
@@ -515,7 +515,7 @@ export const previousEvents: PreviousEvent[] = [
   {
     id: 38,
     title: 'Social Connect',
-    image: '/Events/Social_Connect.png',
+    image: '/Events/social_connect.webp',
     category: 'GENERAL',
     date: '6 December 2022',
     location: 'Manipal University Jaipur',
@@ -547,7 +547,7 @@ export const previousEvents: PreviousEvent[] = [
   {
     id: 34,
     title: 'Error Terror',
-    image: '/Events/ErrorTerror.png',
+    image: '/Events/errorterror.webp',
     category: 'TECH / HACKATHON',
     date: '9 October 2022',
     location: 'Manipal University Jaipur',
@@ -555,7 +555,7 @@ export const previousEvents: PreviousEvent[] = [
   {
     id: 33,
     title: 'Code It On',
-    image: '/Events/CodeItOn.png',
+    image: '/Events/codeiton.webp',
     category: 'TECH / HACKATHON',
     date: '7 October 2022',
     location: 'Manipal University Jaipur',
@@ -563,7 +563,7 @@ export const previousEvents: PreviousEvent[] = [
   {
     id: 32,
     title: 'Breacout 3.0',
-    image: '/Events/Breacout.png',
+    image: '/Events/breacout.webp',
     category: 'GENERAL',
     date: '8 October 2022',
     location: 'Manipal University Jaipur',
@@ -571,7 +571,7 @@ export const previousEvents: PreviousEvent[] = [
   {
     id: 31,
     title: 'Blogverse',
-    image: '/Events/BlogVerse.png',
+    image: '/Events/blogverse.webp',
     category: 'GENERAL',
     date: '8 October 2022',
     location: 'Manipal University Jaipur',
@@ -579,7 +579,7 @@ export const previousEvents: PreviousEvent[] = [
   {
     id: 30,
     title: 'Clone the App',
-    image: '/Events/CloneTheApp.png',
+    image: '/Events/clonetheapp.webp',
     category: 'GENERAL',
     date: '7 October 2022',
     location: 'Manipal University Jaipur',
@@ -587,7 +587,7 @@ export const previousEvents: PreviousEvent[] = [
   {
     id: 29,
     title: 'Ballistic 2.0',
-    image: '/Events/Ballistic2.png',
+    image: '/Events/ballistic2.webp',
     category: 'GAMING / COMPETITION',
     date: '7-8 October 2022',
     location: 'Manipal University Jaipur',
@@ -627,7 +627,7 @@ export const previousEvents: PreviousEvent[] = [
   {
     id: 24,
     title: 'Quizscape',
-    image: '/Events/quizscape.png',
+    image: '/Events/quizscape.webp',
     category: 'GENERAL',
     date: '11 July 2022',
     location: 'Manipal University Jaipur',
@@ -635,7 +635,7 @@ export const previousEvents: PreviousEvent[] = [
   {
     id: 23,
     title: 'The Road from Bachelors to Masters',
-    image: '/Events/masters.png',
+    image: '/Events/masters.webp',
     category: 'GENERAL',
     date: '23 June 2022',
     location: 'Manipal University Jaipur',

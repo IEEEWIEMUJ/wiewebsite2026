@@ -6,7 +6,7 @@ import PillNav from './components/PillNav';
 import SiteFooter from './components/SiteFooter';
 import AppRoutes from './routes/AppRoutes';
 import ScrollToTop from './routes/ScrollToTop';
-import wieLogo from './assets/wie_logo.png';
+import wieLogo from './assets/wie_logo.webp';
 import Silk from './components/Silk';
 
 import './index.css';

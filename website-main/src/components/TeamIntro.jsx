@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import gsap from 'gsap';
-import landingImg from '../assets/teams landing.png';
+import landingImg from '../assets/teams_landing.webp';
 import { useScrollStore } from '../store/useScrollStore';
 
 const TeamIntro = ({ onComplete }) => {
