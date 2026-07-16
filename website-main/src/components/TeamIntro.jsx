@@ -25,7 +25,7 @@ const TeamIntro = ({ onComplete }) => {
           }
         });
       }
-    }, 3000);
+    }, 5000);
 
     // Cleanup to prevent memory leaks
     return () => {
