@@ -89,8 +89,8 @@ export const galleryPhotos = [
   { id: 73, src: '/Gallery/IMG-73.webp', cat: 'group-photo', caption: 'Late Night Memories', description: 'A Farewell group photo' },
   { id: 74, src: '/Gallery/IMG-74.webp', cat: 'moments', caption: 'One Team, One Journey', description: 'The newly appointed Executive Committee, ready to embark on a new journey together.' },
   { id: 75, src: '/Gallery/IMG-75.webp', cat: 'moments', caption: 'The Final Page, But Never the End of the Memories', description: 'Last day of the tenure' },
-  { id: 76, src: '/Gallery/IMG-76.jpg', cat: 'group-photo', caption: 'What Began With Introductions Ends With Unforgettable Memories', description: 'Last group photo of the tenure' },
-  { id: 77, src: '/Gallery/IMG-77.jpg', cat: 'reeti-riwaz', caption: 'A Glimpse of Tradition', description: 'Team photo of Reeti-Riwaz' }
+  { id: 76, src: '/Gallery/img-76.webp', cat: 'group-photo', caption: 'What Began With Introductions Ends With Unforgettable Memories', description: 'Last group photo of the tenure' },
+  { id: 77, src: '/Gallery/img-77.webp', cat: 'reeti-riwaz', caption: 'A Glimpse of Tradition', description: 'Team photo of Reeti-Riwaz' }
 ];
 
 

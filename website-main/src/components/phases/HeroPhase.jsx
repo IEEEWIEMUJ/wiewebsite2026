@@ -6,13 +6,13 @@ import RotatingText from '../RotatingText';
 import ImpactJourney from './ImpactJourney';
 
 // Asset Imports
-import wieLogo from '../../assets/wie_logo.png';
-import topFlag from '../../assets/Top Flag.png';
-import centreRightGlass from '../../assets/centre right Glass Break.png';
-import ieeeWieText from '../../assets/IEEE WIE.png';
-import bottomLeftGlass from '../../assets/bottom left Minor glass break.png';
-import instagramIcon from '../../assets/instagram.png';
-import linkedinIcon from '../../assets/linkedin.png';
+import wieLogo from '../../assets/wie_logo.webp';
+import topFlag from '../../assets/top_flag.webp';
+import centreRightGlass from '../../assets/centre_right_glass_break.webp';
+import ieeeWieText from '../../assets/ieee_wie.webp';
+import bottomLeftGlass from '../../assets/bottom_left_minor_glass_break.webp';
+import instagramIcon from '../../assets/instagram.webp';
+import linkedinIcon from '../../assets/linkedin.webp';
 
 const HeroPhase = () => {
   const bgGlass1Ref = useRef(null);

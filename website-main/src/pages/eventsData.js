@@ -2,7 +2,7 @@ const allEvents = [
   {
     "id": 106,
     "title": "Cyber Odyssey",
-    "image": "/Events/cyber_odyssey.jpeg",
+    "image": "/Events/cyber_odyssey.webp",
     "date": "26-28 June",
     "year": "2026",
     "isPast": false,
@@ -15,7 +15,7 @@ const allEvents = [
   {
     "id": 105,
     "title": "Bits & Brews 8.0",
-    "image": "/Events/bnb8.jpeg",
+    "image": "/Events/bnb8.webp",
     "date": "14 June",
     "year": "2026",
     "isPast": false,
@@ -308,7 +308,7 @@ const allEvents = [
   {
     "id": 80,
     "title": "CODER'S CRUSADE",
-    "image": "/Events/coders_crusade.jpeg",
+    "image": "/Events/coders_crusade.webp",
     "date": "27 November",
     "year": "2024",
     "isPast": true,
@@ -726,7 +726,7 @@ const allEvents = [
   {
     "id": 42,
     "title": "The Fast Switch",
-    "image": "/Events/The_Fast_Switch.png",
+    "image": "/Events/the_fast_switch.webp",
     "date": "19 March",
     "year": "2023",
     "isPast": true,
@@ -770,7 +770,7 @@ const allEvents = [
   {
     "id": 38,
     "title": "Social Connect",
-    "image": "/Events/Social_Connect.png",
+    "image": "/Events/social_connect.webp",
     "date": "6 December",
     "year": "2022",
     "isPast": true,
@@ -814,7 +814,7 @@ const allEvents = [
   {
     "id": 34,
     "title": "Error Terror",
-    "image": "/Events/ErrorTerror.png",
+    "image": "/Events/errorterror.webp",
     "date": "9 October",
     "year": "2022",
     "isPast": true,
@@ -825,7 +825,7 @@ const allEvents = [
   {
     "id": 33,
     "title": "Code It On",
-    "image": "/Events/CodeItOn.png",
+    "image": "/Events/codeiton.webp",
     "date": "7 October",
     "year": "2022",
     "isPast": true,
@@ -836,7 +836,7 @@ const allEvents = [
   {
     "id": 32,
     "title": "Breacout 3.0",
-    "image": "/Events/Breacout.png",
+    "image": "/Events/breacout.webp",
     "date": "8 October",
     "year": "2022",
     "isPast": true,
@@ -847,7 +847,7 @@ const allEvents = [
   {
     "id": 31,
     "title": "Blogverse",
-    "image": "/Events/BlogVerse.png",
+    "image": "/Events/blogverse.webp",
     "date": "8 October",
     "year": "2022",
     "isPast": true,
@@ -858,7 +858,7 @@ const allEvents = [
   {
     "id": 30,
     "title": "Clone the App",
-    "image": "/Events/CloneTheApp.png",
+    "image": "/Events/clonetheapp.webp",
     "date": "7 October",
     "year": "2022",
     "isPast": true,
@@ -869,7 +869,7 @@ const allEvents = [
   {
     "id": 29,
     "title": "Ballistic 2.0",
-    "image": "/Events/Ballistic2.png",
+    "image": "/Events/ballistic2.webp",
     "date": "7-8 October",
     "year": "2022",
     "isPast": true,
@@ -924,7 +924,7 @@ const allEvents = [
   {
     "id": 24,
     "title": "Quizscape",
-    "image": "/Events/quizscape.png",
+    "image": "/Events/quizscape.webp",
     "date": "11 July",
     "year": "2022",
     "isPast": true,
@@ -935,7 +935,7 @@ const allEvents = [
   {
     "id": 23,
     "title": "The Road from Bachelors to Masters",
-    "image": "/Events/masters.png",
+    "image": "/Events/masters.webp",
     "date": "23 June",
     "year": "2022",
     "isPast": true,
