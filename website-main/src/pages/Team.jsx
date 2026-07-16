@@ -38,7 +38,7 @@ const executiveCommittee = [
     "id": 49,
     "name": "Akshat Raheja",
     "designation": "General Secretary",
-    "img": "/teams/EC/akshat_raheja.webp",
+    "img": "/teams/EC/Akshat Raheja.jpeg",
     "instagram": "https://www.instagram.com/akshat_raheja06/",
     "linkedin": "https://www.linkedin.com/in/akshat-raheja06",
     "github": ""
@@ -720,7 +720,7 @@ const ExecutiveCard = ({ member, innerRef, textRef }) => {
                 alt={member.name}
                 loading="eager"
                 decoding="async"
-                className="w-full h-full object-cover object-[center_20%] md:object-center transition-transform duration-700 hover:scale-110"
+                className="w-full h-full object-cover object-[center_20%] md:object-center transition-transform duration-700 hover:scale-100"
               />
             </div>
 
