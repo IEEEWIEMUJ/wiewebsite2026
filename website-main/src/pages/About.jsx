@@ -292,11 +292,11 @@ export default function About() {
             { num: 1000, suffix: "+", label: "Participants Engaged" },
             { num: 7, suffix: "+", label: "International Collaborations" }
           ].map((stat, i) => (
-            <div key={i} className="text-center bg-[#10002b]/60 border border-[#3c096c] p-8 rounded-2xl shadow-[0_0_20px_rgba(60,9,108,0.3)] hover:-translate-y-2 transition-transform duration-300">
-              <div className="text-4xl md:text-5xl font-black text-transparent bg-clip-text bg-gradient-to-r from-[#e0aaff] to-[#9d4edd] mb-3 flex justify-center items-center">
+            <div key={i} className="text-center bg-[#10002b]/60 border border-[#3c096c] p-3 sm:p-6 md:p-8 rounded-2xl shadow-[0_0_20px_rgba(60,9,108,0.3)] hover:-translate-y-2 transition-transform duration-300">
+              <div className="text-3xl sm:text-4xl md:text-5xl font-black text-transparent bg-clip-text bg-gradient-to-r from-[#e0aaff] to-[#9d4edd] mb-2 sm:mb-3 flex justify-center items-center">
                 <CountUp to={stat.num} duration={1} separator="" />{stat.suffix}
               </div>
-              <div className="text-sm md:text-base text-[#c77dff] font-medium">{stat.label}</div>
+              <div className="text-xs sm:text-sm md:text-base text-[#c77dff] font-medium leading-tight">{stat.label}</div>
             </div>
           ))}
         </motion.div>
