@@ -9,6 +9,22 @@ export interface PreviousEvent {
 
 export const previousEvents: PreviousEvent[] = [
   {
+    id: 108,
+    title: 'Brandit 3.0',
+    image: '/Events/brandit30.webp',
+    category: 'TECH / HACKATHON',
+    date: '10 October 2026',
+    location: 'Manipal University Jaipur',
+  },
+  {
+    id: 107,
+    title: 'Tech Race',
+    image: '/Events/techrace.webp',
+    category: 'TECH / HACKATHON',
+    date: '9 October 2026',
+    location: 'Manipal University Jaipur',
+  },
+  {
     id: 104,
     title: 'Crown Conquest',
     image: '/Events/crownconquest.webp',
