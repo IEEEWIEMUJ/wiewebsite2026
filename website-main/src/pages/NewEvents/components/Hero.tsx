@@ -11,17 +11,17 @@ import {
 const deckCards = [
   {
     className: 'deck-card front-card',
-    src: '/posters/poster1.webp',
-    alt: 'Elite Grand Championship',
-    label: 'Bring Elite Grand Championship to front',
-    title: 'HerVerdict',
+    src: '/Events/brandit30.webp',
+    alt: 'Brandit 3.0',
+    label: 'Bring Brandit 3.0 to front',
+    title: 'Brandit 3.0',
   },
   {
     className: 'deck-card bg-card-1',
-    src: '/posters/poster2.webp',
-    alt: 'Neon Pulse Festival',
-    label: 'Bring Neon Pulse Festival to front',
-    title: 'Vision IAS',
+    src: '/Events/techrace.webp',
+    alt: 'Tech Race',
+    label: 'Bring Tech Race to front',
+    title: 'Tech Race',
   },
   {
     className: 'deck-card bg-card-2',

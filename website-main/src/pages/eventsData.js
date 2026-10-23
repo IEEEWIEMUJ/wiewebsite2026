@@ -1,5 +1,25 @@
 const allEvents = [
   {
+    "id": 108,
+    "title": "Brandit 3.0",
+    "image": "/Events/brandit30.webp",
+    "date": "10 October",
+    "year": "2026",
+    "isPast": true,
+    "location": "Manipal University Jaipur",
+    "category": "TECH / HACKATHON"
+  },
+  {
+    "id": 107,
+    "title": "Tech Race",
+    "image": "/Events/techrace.webp",
+    "date": "9 October",
+    "year": "2026",
+    "isPast": true,
+    "location": "Manipal University Jaipur",
+    "category": "TECH / HACKATHON"
+  },
+  {
     "id": 106,
     "title": "Cyber Odyssey",
     "image": "/Events/cyber_odyssey.webp",

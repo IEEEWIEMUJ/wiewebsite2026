@@ -1,3 +1,4 @@
+import React from 'react';
 import { motion, useReducedMotion } from 'framer-motion';
 import {
   LATEST_EVENT_DELAYS,
@@ -11,6 +12,17 @@ import {
 import allEvents from '../../eventsData';
 import { getSymmetricCenterReorderedEvents } from '../../../utils/eventSortUtils';
 
+interface RawEvent {
+  id: number;
+  title: string;
+  image: string;
+  date: string;
+  year?: string;
+  location?: string;
+  accentColor?: string;
+  registrationUrl?: string;
+}
+
 const latestClasses = [
   { cardClass: 'pop-card pop-card--sm pop-card--pink', imgClass: 'pop-card__img pop-card__img--1', isCenter: false },
   { cardClass: 'pop-card pop-card--sm pop-card--purple', imgClass: 'pop-card__img pop-card__img--2', isCenter: false },
@@ -19,7 +31,7 @@ const latestClasses = [
   { cardClass: 'pop-card pop-card--sm pop-card--violet', imgClass: 'pop-card__img pop-card__img--5', isCenter: false },
 ];
 
-const popularEvents = getSymmetricCenterReorderedEvents(allEvents).slice(0, 5).map((event, index) => ({
+const popularEvents = (getSymmetricCenterReorderedEvents(allEvents) as RawEvent[]).slice(0, 5).map((event, index) => ({
   id: `pop-card-${event.id}`,
   className: latestClasses[index].cardClass,
   imgClass: latestClasses[index].imgClass,
@@ -28,10 +40,12 @@ const popularEvents = getSymmetricCenterReorderedEvents(allEvents).slice(0, 5).m
   label: event.title + (latestClasses[index].isCenter ? ' — Number 1 this week' : ''),
   title: event.title,
   date: event.date + (event.year ? ', ' + event.year : ''),
-  location: event.location,
+  location: event.location || '',
   isCenter: latestClasses[index].isCenter,
-  accentColor: event.accentColor || '#00d2ff'
+  accentColor: event.accentColor || '#00d2ff',
+  registrationUrl: event.registrationUrl && event.registrationUrl.trim() !== '#' ? event.registrationUrl.trim() : undefined,
 }));
+
 export default function LatestEvents() {
   const shouldReduceMotion = useReducedMotion();
 
@@ -45,8 +59,8 @@ export default function LatestEvents() {
             initial={shouldReduceMotion ? false : latestEventsHeading.hidden}
             whileInView={shouldReduceMotion ? undefined : latestEventsHeading.visible}
             viewport={SCROLL_VIEWPORT}
-         transition={{ duration: 0.8, ease: PREMIUM_EASE }}
-       >
+            transition={{ duration: 0.8, ease: PREMIUM_EASE }}
+          >
             Latest Events
           </motion.h2>
           <motion.a
@@ -100,8 +114,14 @@ export default function LatestEvents() {
                     <span className="pop-card__date">{event.date}</span>
                     <span className="pop-card__loc">{event.location}</span>
                   </div>
-                  {event.isCenter && (
-                    <a href="#" id="pop-center-tickets" className="pop-card__btn">
+                  {event.isCenter && event.registrationUrl && (
+                    <a
+                      href={event.registrationUrl}
+                      id="pop-center-tickets"
+                      className="pop-card__btn"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       REGISTER
                     </a>
                   )}
